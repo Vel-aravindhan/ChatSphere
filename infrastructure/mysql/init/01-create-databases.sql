@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS chatsphere_auth;
+CREATE DATABASE IF NOT EXISTS chatsphere_user;
+CREATE DATABASE IF NOT EXISTS chatsphere_chat;
+CREATE DATABASE IF NOT EXISTS chatsphere_message;
+CREATE DATABASE IF NOT EXISTS chatsphere_notification;
